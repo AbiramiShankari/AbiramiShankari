@@ -91,11 +91,11 @@ Generative AI • AI Agents • RAG • Local LLMs • Ollama • Emerging AI Sy
 
 ## 🤝 Let's Connect
 
-🌐 **Portfolio:** [Your Portfolio]
+🌐 **Portfolio:** abirami-shankari-s.vercel.app 
 
-💼 **LinkedIn:** [Your LinkedIn]
+💼 **LinkedIn:** https://linkedin.com/in/abirami-shankari-s
 
-📧 **Email:** [Your Email]
+📧 **Email:** abiramishankari26@gmail.com
 
 ---
 
